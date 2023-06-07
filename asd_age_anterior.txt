@@ -1,0 +1,62 @@
+/host/corin/tank/data_chailab/HBN/HBN_functional_analysis/HBN_not_corrected_no_analyses/results/secondlevel/SBC_01/ASD(0).ASD_AGE(1)/rest/left_ant_avg.right_ant_avg/spmT_0001.nii,1
+Type: T
+df: 137
+Threshold
+-- p value = 0.0005
+-- intensity = 3.363
+-- cluster size = 91
+Number of clusters found: 1
+----------------------
+Cluster 1
+Number of voxels: 388
+Peak MNI coordinate: -12 -78  34
+Peak MNI coordinate region:  // Left Cerebrum // Parietal Lobe // Precuneus // Gray Matter // brodmann area 7 // Cuneus_L (aal3v1)
+Peak intensity: -5.2415
+Center of gravity MNI coordinate: -13 -70  29
+Center of gravity MNI coordinate region:  // Left Cerebrum // Parietal Lobe // Precuneus // Gray Matter // brodmann area 7 // Precuneus_L (aal3v1)
+# voxels	structure
+  388	--TOTAL # VOXELS--
+  388	Left Cerebrum
+  273	Precuneus
+  224	White Matter
+  206	Cuneus_L (aal3v1)
+  193	Occipital Lobe
+  168	Parietal Lobe
+  143	Gray Matter
+  111	Precuneus_L (aal3v1)
+   88	brodmann area 7
+   80	Cuneus
+   57	Occipital_Sup_L (aal3v1)
+   42	brodmann area 31
+   32	Sub-Gyral
+   24	Temporal Lobe
+   12	brodmann area 19
+    8	Calcarine_L (aal3v1)
+    3	Cingulate Gyrus
+    3	Limbic Lobe
+    1	brodmann area 18
+
+/host/corin/tank/data_chailab/HBN/HBN_functional_analysis/HBN_not_corrected_no_analyses/results/secondlevel/SBC_01/ASD(0).ASD_AGE(1)/rest/left_ant_avg.right_ant_avg/spmT_0001.nii,1
+Type: T
+df: 137
+Threshold
+-- p value = 0.0005
+-- intensity = 3.363
+-- cluster size = 91
+Number of clusters found: 1
+----------------------
+Cluster 1
+Number of voxels: 101
+Peak MNI coordinate: 24  26  22
+Peak MNI coordinate region:  // Right Cerebrum // Frontal Lobe // Sub-Gyral // White Matter // undefined // undefined
+Peak intensity: 5.4954
+Center of gravity MNI coordinate: 24  24  23
+Center of gravity MNI coordinate region:  // Right Cerebrum // Frontal Lobe // Sub-Gyral // White Matter // undefined // undefined
+# voxels	structure
+  101	--TOTAL # VOXELS--
+  101	White Matter
+  101	Right Cerebrum
+   98	Frontal Lobe
+   98	Sub-Gyral
+    3	Extra-Nuclear
+    3	Sub-lobar

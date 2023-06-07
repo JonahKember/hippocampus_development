@@ -1,0 +1,49 @@
+/host/corin/tank/data_chailab/HBN/HBN_functional_analysis/HBN_not_corrected_no_analyses/results/secondlevel/SBC_01/Controls(0).Controls_AGE(1)/rest/left_ant_avg.right_ant_avg/spmT_0001.nii,1
+Type: T
+df: 131
+Threshold
+-- p value = 0.0005
+-- intensity = 3.3663
+-- cluster size = 91
+Number of clusters found: 2
+----------------------
+Cluster 1
+Number of voxels: 531
+Peak MNI coordinate: 48 -68 -32
+Peak MNI coordinate region:  // Right Cerebellum // Cerebellum Posterior Lobe // Tuber // undefined // undefined // Cerebellum_Crus1_R (aal3v1)
+Peak intensity: 5.547
+Center of gravity MNI coordinate: 45 -63 -36
+Center of gravity MNI coordinate region:  // Right Cerebellum // Cerebellum Posterior Lobe // Tuber // undefined // undefined // Cerebellum_Crus1_R (aal3v1)
+# voxels	structure
+  531	--TOTAL # VOXELS--
+  531	Right Cerebellum
+  516	Cerebellum Posterior Lobe
+  391	Cerebellum_Crus1_R (aal3v1)
+  295	Tuber
+  134	Cerebellum_Crus2_R (aal3v1)
+  116	Cerebellar Tonsil
+   86	Declive
+   19	Pyramis
+   15	Culmen
+   15	Cerebellum Anterior Lobe
+    6	Cerebellum_7b_R (aal3v1)
+----------------------
+Cluster 2
+Number of voxels: 174
+Peak MNI coordinate: -44 -64 -34
+Peak MNI coordinate region:  // Left Cerebellum // Cerebellum Posterior Lobe // Tuber // undefined // undefined // Cerebellum_Crus1_L (aal3v1)
+Peak intensity: 5.1437
+Center of gravity MNI coordinate: -43 -64 -34
+Center of gravity MNI coordinate region:  // Left Cerebellum // Cerebellum Posterior Lobe // Tuber // undefined // undefined // Cerebellum_Crus1_L (aal3v1)
+# voxels	structure
+  174	--TOTAL # VOXELS--
+  174	Left Cerebellum
+  172	Cerebellum Posterior Lobe
+  159	Cerebellum_Crus1_L (aal3v1)
+  125	Tuber
+   38	Declive
+   15	Cerebellum_Crus2_L (aal3v1)
+    8	Cerebellar Tonsil
+    2	Cerebellum Anterior Lobe
+    1	Uvula
+    1	Culmen
